@@ -7,6 +7,7 @@ public class NextLevel : MonoBehaviour
 {
     public void CargarNivel(string nivel)
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(nivel);
     }
 
