@@ -44,7 +44,7 @@ public class MovimientoPJ : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         //inicamos el animator
         animator = GetComponent<Animator>();
-        xInit = -8;
+        xInit = -13;
         yInit = -2;
 
         audioSource = GetComponent<AudioSource>();
