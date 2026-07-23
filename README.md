@@ -5,7 +5,7 @@ README - JUEGO 2D
 # Juego 2D
 
 ## Descripción
-Videojuego desarrollado en Unity como proyecto personal para practicar programación, diseño de niveles y mecánicas de plataformas.
+Videojuego en 2D desarrollado en Unity durante mi formación academica.
 
 ## Tecnologías utilizadas
 - Unity
@@ -21,9 +21,10 @@ Videojuego desarrollado en Unity como proyecto personal para practicar programac
 - Menú de pausa.
 
 ## Cómo ejecutar
-1. Descargar la versión ejecutable desde Releases.
-o
-2. Clonar el proyecto y abrirlo con Unity Hub.
+Opción: Descargar la versión ejecutable desde Releases.
+Opción 2: Clonar el proyecto y abrirlo con Unity Hub. En este caso, es posible que algunos objetos de los menús y de la pantalla (como iconos y textos) hayan cambiado de posición.
 
 ## Autor
-Daniel Jara Uribe
+Daniel Vicente Jara Uribe
+
+GitHub: https://github.com/DanVic-JarUri
